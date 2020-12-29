@@ -67,7 +67,7 @@ CODE GOES HERE
 
    ```./set-values.sh```
 
-8. Run the install scriptt:
+8. Run the install script and store metadata about the node in a file located in the metadata folder:
 
    ```sudo ./install_dragonchain.sh >> ./metadata/hmac.txt```
 
