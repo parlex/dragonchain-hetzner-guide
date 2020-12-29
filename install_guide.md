@@ -46,11 +46,11 @@ Most of the steps are taken from: https://github.com/Dragonchain-Community/drago
 
     ```cd ~/ && mkdir setup && cd setup && mkdir metadata```
 
-2. Download the node prep scripts
+2. Download the node prep scripts and install script
 
     ```wget https://raw.githubusercontent.com/Dragonchain-Community/dragonchain-uvn-install-guide/master/resources/node-prep.sh && wget https://raw.githubusercontent.com/parlex/dragonchain-hetzner-guide/main/set-values.sh && https://raw.githubusercontent.com/parlex/dragonchain-hetzner-guide/main/install_dragonchain.sh```
 
-3. Enable execution on node prep script
+3. Enable execution on scripts
 
     ```chmod +x ./node-prep.sh ./set-values.sh ./install_dragonchain.sh```
 
