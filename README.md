@@ -57,7 +57,7 @@ CODE GOES HERE
 
 3. Enable execution on scripts
 
-    ```chmod +x ./node-prep.sh ./set-values.sh ./install_dragonchain.sh```
+    ```chmod u+x ./node-prep.sh ./set-values.sh ./install_dragonchain.sh```
 
 4. Execute the node-prep.sh script
 
