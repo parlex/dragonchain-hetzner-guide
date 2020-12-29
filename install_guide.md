@@ -64,7 +64,7 @@ Most of the steps are taken from: https://github.com/Dragonchain-Community/drago
 
 6. Download setup script for easier configuration
 
-   ```wget https://raw.githubusercontent.com/parlex/dragonchain-hetzner-guide/main/setupScript.sh```
+   ```wget https://raw.githubusercontent.com/parlex/dragonchain-hetzner-guide/main/set-values.sh```
 
 7. Enable execution on setup script
 
