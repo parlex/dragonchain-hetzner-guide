@@ -1,1 +1,1 @@
-# dragonchain-hetzner-guide
+# Dragonchain Hetzner Guide
