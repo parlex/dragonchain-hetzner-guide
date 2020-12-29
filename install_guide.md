@@ -42,30 +42,28 @@ Most of the steps are taken from: https://github.com/Dragonchain-Community/drago
 
 # Manual Installation - Dragonchain Installation
 
-1. Create a setup directory (just for organization)
+1. Create a setup directory (just for organization) and metadata directory
 
-    ```cd ~/ && mkdir setup && cd setup```
+    ```cd ~/ && mkdir setup && cd setup && mkdir metadata```
 
-2. Download the node prep script
+2. Download the node prep scripts
 
-    ```wget https://raw.githubusercontent.com/Dragonchain-Community/dragonchain-uvn-install-guide/master/resources/node-prep.sh```
+    ```wget https://raw.githubusercontent.com/Dragonchain-Community/dragonchain-uvn-install-guide/master/resources/node-prep.sh && wget https://raw.githubusercontent.com/parlex/dragonchain-hetzner-guide/main/set-values.sh && https://raw.githubusercontent.com/parlex/dragonchain-hetzner-guide/main/install_dragonchain.sh```
 
 3. Enable execution on node prep script
 
-    ```chmod +x ./node-prep.sh```
+    ```chmod +x ./node-prep.sh ./set-values.sh ./install_dragonchain.sh```
 
 4. Execute the node-prep.sh script
 
     ```sudo ./node-prep.sh```
 
-5. Remove execution ability on node-prep.sh (we don’t want to accidentally run again later)
+7. Run set values script and input values
 
-    ```chmod -x ./node-prep.sh```
+   ```./set-values.sh```
 
-6. Download setup script for easier configuration
+8. Run the install scriptt:
 
-   ```wget https://raw.githubusercontent.com/parlex/dragonchain-hetzner-guide/main/set-values.sh```
+   ```sudo ./install_dragonchain.sh >> ./metadata/hmac.txt```
 
-7. Enable execution on setup script
-
-   ```chmod -x ./set-values.sh```
+9. Repeat step 7 and 8. until you've installed the desired amount of nodes. 
