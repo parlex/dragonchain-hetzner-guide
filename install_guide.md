@@ -1,4 +1,4 @@
-Most of the steps are taken from: https://github.com/Dragonchain-Community/dragonchain-uvn-install-guide/blob/master/manual-install.md
+Most of the steps are taken unedited from: https://github.com/Dragonchain-Community/dragonchain-uvn-install-guide/blob/master/manual-install.md however some of the steps are modified to be easier to use for beginners.
 
 # Server setup 
 
