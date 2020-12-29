@@ -1,7 +1,7 @@
 Most of the steps are taken unedited from: https://github.com/Dragonchain-Community/dragonchain-uvn-install-guide/blob/master/manual-install.md however some of the steps are modified to be easier to use for beginners.
 
 # Hetzner referall code for 20$ free credits
-<CODE GOES HERE>
+CODE GOES HERE
 
 # Server setup 
 
@@ -69,4 +69,4 @@ Most of the steps are taken unedited from: https://github.com/Dragonchain-Commun
 
    ```sudo ./install_dragonchain.sh >> ./metadata/hmac.txt```
 
-9. Repeat step 7 and 8. until you've installed the desired amount of nodes. 
+9. Repeat step 7 and 8. until you've installed the desired amount of nodes.
