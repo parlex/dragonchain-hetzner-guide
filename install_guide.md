@@ -68,4 +68,4 @@ Most of the steps are taken from: https://github.com/Dragonchain-Community/drago
 
 7. Enable execution on setup script
 
-   ```chmod -x ./setupScript.sh```
+   ```chmod -x ./set-values.sh```
