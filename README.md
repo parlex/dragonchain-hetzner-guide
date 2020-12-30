@@ -73,6 +73,6 @@ Ddraigtwp's code: https://hetzner.cloud/?ref=SSDyYKwCuf1y and guide https://den.
 
 9. Wait for your node to come up, you can then check your node's matchmaking status
 
-   ```./check_matchmaking.sh```
+   ```kubectl get pods -n dragonchain | grep webserver | xargs -I {} ./check_matchmaking.sh {}```
 
 10. Repeat step 7-9. until you've installed the desired amount of nodes.
