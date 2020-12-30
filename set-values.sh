@@ -4,7 +4,7 @@ read -p 'Node Name: ' nodeName
 read -p 'Internal ID: ' internalID
 read -p 'Registration Token: ' registrationToken
 read -p 'Endpoint URL: ' url
-read -p 'Node Port: ' port
+read -p 'Node Port(if you have no idea use 30000): ' port
 read -p 'Node Level: ' level
 
 
