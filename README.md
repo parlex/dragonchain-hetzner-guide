@@ -3,7 +3,7 @@
 Most of the steps are taken unedited from: https://github.com/Dragonchain-Community/dragonchain-uvn-install-guide/blob/master/manual-install.md however some of the steps are modified to be easier to use for beginners.
 
 ## Hetzner referall code for 20$ free credits
-CODE GOES HERE
+TWP's code: https://hetzner.cloud/?ref=SSDyYKwCuf1y and guide https://den.social/l/Dragonchain/UIwEaA6QIZ/hetzner-node-guide-repost-to-fix-bad-link/
 
 ## Server setup 
 
