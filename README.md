@@ -71,4 +71,8 @@ Ddraigtwp's code: https://hetzner.cloud/?ref=SSDyYKwCuf1y and guide https://den.
 
    ```sudo ./install_dragonchain.sh >> ./metadata/hmac.txt```
 
-9. Repeat step 7 and 8. until you've installed the desired amount of nodes.
+9. Wait for your node to come up, you can then check your node's matchmaking status
+
+   ```./check_matchmaking.sh```
+
+10. Repeat step 7-9. until you've installed the desired amount of nodes.
