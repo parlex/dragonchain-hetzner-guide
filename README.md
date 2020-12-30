@@ -53,7 +53,7 @@ Ddraigtwp's code: https://hetzner.cloud/?ref=SSDyYKwCuf1y and guide https://den.
 
 2. Download the node prep scripts, install script and script for checking node status
 
-    ```wget https://raw.githubusercontent.com/Dragonchain-Community/dragonchain-uvn-install-guide/master/resources/node-prep.sh && wget https://raw.githubusercontent.com/parlex/dragonchain-hetzner-guide/main/set-values.sh && https://raw.githubusercontent.com/parlex/dragonchain-hetzner-guide/main/install_dragonchain.sh && https://raw.githubusercontent.com/parlex/dragonchain-hetzner-guide/main/check_matchmaking.sh```
+    ```wget https://raw.githubusercontent.com/Dragonchain-Community/dragonchain-uvn-install-guide/master/resources/node-prep.sh && wget https://raw.githubusercontent.com/parlex/dragonchain-hetzner-guide/main/set-values.sh && wget https://raw.githubusercontent.com/parlex/dragonchain-hetzner-guide/main/install_dragonchain.sh && wget https://raw.githubusercontent.com/parlex/dragonchain-hetzner-guide/main/check_matchmaking.sh```
 
 3. Enable execution on scripts
 
